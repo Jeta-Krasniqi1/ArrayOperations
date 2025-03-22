@@ -6,13 +6,13 @@ Ky është një program në Java që kryen operacione të ndryshme mbi vargjet, 
 
 ## Si të ekzekutoni programin?
 1. Klononi këtë repo:
-   git clone https://github.com/username/ArrayOperations.git
+   git clone https://github.com/Jeta-Krasniqi1/ArrayOperations.git
 2. Hapni projektin në Eclipse ose VS Code.
 3. Ekzekutoni `ArraysOperations.java`.
 
 ## Autori
-- [Jeta Krasniqi]
-- GitHub: [Jeta-Krasniqi1]
+- Jeta Krasniqi
+- GitHub: Jeta-Krasniqi1
 
 
    
